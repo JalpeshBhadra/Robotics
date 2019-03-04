@@ -1,2 +1,2 @@
 # Robotics
-Courses by University of Pennsylvania
+Course by University of Pennsylvania
